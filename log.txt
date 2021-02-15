@@ -1,0 +1,9 @@
+15/02/2021 16:38:22 - https://play.golang.org/- online: true
+15/02/2021 16:38:22 - https://github.com/- online: true
+15/02/2021 16:38:23 - https://random-status-code.herokuapp.com/- online: false
+15/02/2021 16:38:29 - https://play.golang.org/- online: true
+15/02/2021 16:38:29 - https://github.com/- online: true
+15/02/2021 16:38:29 - https://random-status-code.herokuapp.com/- online: true
+15/02/2021 16:38:35 - https://play.golang.org/- online: true
+15/02/2021 16:38:35 - https://github.com/- online: true
+15/02/2021 16:38:35 - https://random-status-code.herokuapp.com/- online: true
